@@ -1,0 +1,99 @@
+{
+    "configs":[
+        {
+            "version": 1,
+            "color": {
+                "themeColor": "#3E8FFF",
+                "homeComplaintPraise": "#2E87FF",
+                "homeReportRepair": "#2E5AFF",
+                "homePatrolManager": "#2EAEFF",
+                "reportHomeColor1": "#5474F7",
+                "reportHomeColor2": "#3E8FFF",
+                "reportHomeColor3": "#0CB3DF",
+                "statisticalTopBg": "#0039A4",
+                "statisticalPropertyPaymentSelect": "#3780E1"
+            },
+            "img": {
+                "tabBarHome": "default_icon_main_home_nor.png",
+                "tabBarHomePre": "default_icon_main_home_pre.png",
+                "tabBarStatistical": "default_icon_main_statistical_nor.png",
+                "tabBarStatisticalPre": "default_icon_main_statistical_pre.png",
+                "tabBarMine": "default_icon_main_mine_nor.png",
+                "tabBarMinePre": "default_icon_main_mine_pre.png",
+                "homeCarSearch": "default_icon_home_car_search.png",
+                "homeChargeManagement": "default_icon_home_charge_management.png",
+                "homeEquipmentAccount": "default_icon_home_equipment_account.png",
+                "homeEquipmentInspection": "default_icon_home_equipment_inspection.png",
+                "homeEquipmentMaintenance": "default_icon_home_equipment_maintenance.png",
+                "homeUserQuery": "default_icon_home_user_query.png",
+                "homeVisitorRegistration": "default_visitor_registration.png",
+                "homeCustomerComplaintManager": "default_icon_home_customer_complaint_management.png",
+                "homeReportRepair": "default_icon_home_report_repair.png",
+                "homePatrolManager": "default_icon_home_patrol_management.png",
+                "mineHead": "default_icon_mine_head.png",
+                "mineSchedulingManagement": "default_icon_mine_scheduling_management.png",
+                "mineNotice": "default_icon_mine_notice.png",
+                "mineSetting": "default_icon_mine_setting.png",
+                "repairPersonal": "default_icon_repair_personal.png",
+                "repairPublic": "default_icon_repair_public.png",
+                "repairHang": "default_icon_repair_hang.png",
+                "workOrderProgressPre": "default_work_order_progress_pre.png",
+                "homeMeterReading": "default_icon_home_meter_reading.png",
+                "homeComplaintPraise":"default_icon_home_complaint_praise.png",
+                "homeStatistical":"default_icon_home_statistical.png",
+                "homeDeviceLog":"default_icon_home_device_log.png",
+                "commonItemBg1":"default_bg_common_item_1.png",
+                "commonItemBg2":"default_bg_common_item_2.png",
+                "commonItemBg3":"default_bg_common_item_3.png",
+                "commonItemBg4":"default_bg_common_item_4.png",
+                "messageOrderSelect":"default_icon_msg_unread.png",
+            }
+        },
+        {
+            "version": 1,
+            "color": {
+                "themeColor": "#C8182A",
+                "homeComplaintPraise": "#2E87FF",
+                "homeReportRepair": "#2E5AFF",
+                "homePatrolManager": "#2EAEFF"
+            },
+            "img": {
+                "tabBarHome": "default_icon_main_home_nor.png",
+                "tabBarHomePre": "default_icon_main_home_pre.png",
+                "tabBarStatistical": "default_icon_main_statistical_nor.png",
+                "tabBarStatisticalPre": "default_icon_main_statistical_pre.png",
+                "tabBarMine": "default_icon_main_mine_nor.png",
+                "tabBarMinePre": "default_icon_main_mine_pre.png",
+                "homeCarSearch": "default_icon_home_car_search.png",
+                "homeChargeManagement": "default_icon_home_charge_management.png",
+                "homeEquipmentAccount": "default_icon_home_equipment_account.png",
+                "homeEquipmentInspection": "default_icon_home_equipment_inspection.png",
+                "homeEquipmentMaintenance": "default_icon_home_equipment_maintenance.png",
+                "homeUserQuery": "default_icon_home_user_query.png",
+                "homeVisitorRegistration": "default_visitor_registration.png",
+                "homeCustomerComplaintManager": "default_icon_home_customer_complaint_management.png",
+                "homeReportRepair": "default_icon_home_report_repair.png",
+                "homePatrolManager": "default_icon_home_patrol_management.png",
+                "mineHead": "default_icon_mine_head.png",
+                "mineSchedulingManagement": "default_icon_mine_scheduling_management.png",
+                "mineNotice": "default_icon_mine_notice.png",
+                "mineSetting": "default_icon_mine_setting.png",
+                "repairPersonal": "",
+                "repairPublic": "",
+                "repairHang": "default_icon_repair_hang.png",
+                "workOrderProgressPre": "default_work_order_progress_pre.png",
+                "homeMeterReading": "default_icon_home_meter_reading.png",
+                "homeComplaintPraise":"default_icon_home_complaint_praise.png",
+                "homeStatistical":"default_icon_home_statistical.png",
+                "homeDeviceLog":"default_icon_home_device_log.png",
+                "commonItemBg1":"default_bg_common_item_1.png",
+                "commonItemBg2":"default_bg_common_item_2.png",
+                "commonItemBg3":"default_bg_common_item_3.png",
+                "commonItemBg4":"default_bg_common_item_4.png"
+            }
+        }
+    ]
+    
+    
+}
+ 

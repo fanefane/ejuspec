@@ -1,0 +1,6 @@
+framework module EjuHKSDK {
+  umbrella header "EjuHKSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
